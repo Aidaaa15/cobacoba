@@ -1,4 +1,4 @@
-<form method="get" id="calc">
+<form method="post" id="calc">
     <table>
         <tr>
             <td>Bil1</td>
