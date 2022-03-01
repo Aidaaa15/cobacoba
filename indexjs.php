@@ -22,7 +22,7 @@
             <td><button type="submit">Hitung</button></td>
         </tr>
         <tr>
-            <td>Hasil</td>
+            <td>Hasil kalkulator</td>
             <td class="hasil"></td>
         </tr>
         <tr>

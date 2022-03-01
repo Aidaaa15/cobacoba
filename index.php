@@ -29,7 +29,7 @@
     }
     ?>
     <div class="kalkulator">
-        <h2 class="judul">KALKULATOR</h2>
+        <h2 class="judul">KALKULATOR v2</h2>
         <form method="post" action="index.php">
             <input type="text" name="bil1" class="bil" autocomplete="off" placeholder="masukkan bilangan pertama">
             <input type="text" name="bil2" class="bil" autocomplete="off" placeholder="masukkan bilangan kedua">

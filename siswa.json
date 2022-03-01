@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "nama": "Chandra Annisa",
+        "kelas": "TI A"
+    },
+
+    {
+        "id":2,
+        "nama":"Faizal Armas",
+        "kelas":"TI B"
+    },
+
+    {
+        "id":3,
+        "nama":"Mega Ayu",
+        "kelas":"TI C"
+    }
+]
